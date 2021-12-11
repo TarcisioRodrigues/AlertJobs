@@ -4,6 +4,7 @@
 
 <br>
 
+ <img src="https://user-images.githubusercontent.com/66088034/145694939-db5a4319-4d7d-400d-9692-2362ffaccdae.png" />
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
